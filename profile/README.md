@@ -1,3 +1,23 @@
+<style>
+  body {
+    background: linear-gradient(to bottom right, #9370DB, #F5F5F5);
+    background-size: 200% 200%;
+    animation: gradient-animation 10s ease infinite;
+  }
+
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+</style>
+
 <p align="center">
 <a href="https://github.com/TanmayArchives">
 <img src="/profile/assets/vintage-logo.png" height="120px" width="120px" alt="Vintage Logo of Tanmay Archives" />
