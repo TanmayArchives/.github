@@ -17,28 +17,37 @@
 </p>
 
 ---
-
+<p align="center">
 ## 🌟 Why TanmayArchives?
+</p>
 
 At **TanmayArchives**, we believe that every project has potential, whether completed or not. This organization serves as a curated gallery for:
 
 - **Archiving**: Preserve projects that are no longer actively developed.
 - **Showcasing**: Display projects that might inspire or be of interest to others.
 - **Separating**: Keep incomplete or experimental projects separate from main profile to maintain a clean and professional look.
-
+- 
+<p align="center">
 ## 🚀 Contributions
+</p>
 
 **TanmayArchives** is more than a repository—it's a community! Whether you're looking to contribute to existing projects or find inspiration for new ones, you're in the right place. Feel free to fork projects, raise issues, or submit pull requests.
 
+<p align="center">
 ## 📚 Explore
+</p>
 
 Dive into our repositories to explore past projects and experiments. Who knows? Maybe an archived project could spark your next big idea!
 
+<p align="center">
 ## 📬 Get Involved
+</p>
 
 Interested in contributing or want to discuss project ideas? Connect with me [@TanmayDhobale](https://github.com/TanmayDhobale/) or submit an issue here on GitHub.
 
+<p align="center">
 ## 📌 Support
+</p>
 
 If you find any of our projects useful or interesting, please consider giving it a ⭐ on GitHub to show your support!
 
