@@ -1,13 +1,51 @@
 <p align="center">
 <a href="https://github.com/TanmayArchives">
-<img height="100px" width="100px" src="/profile/assets/vintage-logo.png" align="center" alt="Vintage Logo for Tanmay Archives"/>
+<img src="/profile/assets/vintage-logo.png" height="120px" width="120px" alt="Vintage Logo of Tanmay Archives" />
 </a>
 </p>
 
-<h1 align="center" style="border-bottom: 2px solid #5a432c; font-family: 'Courier New', monospace; font-weight: bold; color: #5a432c;">TanmayArchives</h1>
+<h1 align="center" style="font-family: 'Cinzel', serif; font-weight: bold; color: #4a3025;">
+TanmayArchives
+</h1>
 
-<p align="center" style="font-family: 'Georgia', serif; color: #7a6755;">A repository for storing archived or incomplete projects by <a href="https://github.com/TanmayDhobale/" style="color: #b38d60;">@TanmayDhobale</a></p>
+<p align="center" style="font-family: 'Merriweather', serif; font-style: italic; color: #7a6755;">
+A dedicated space for archived and exploratory projects by <a href="https://github.com/TanmayDhobale/" style="color: #b38d60;">@TanmayDhobale</a>
+</p>
 
-<h2 style="font-family: 'Courier New', monospace; font-weight: bold; color: #5a432c;">Why should you use this repository instead of your own profile?</h2>
+<p align="center">
+<a href="https://github.com/TanmayArchives"><img src="https://img.shields.io/github/stars/TanmayArchives?style=social" alt="GitHub Stars"></a>
+<a href="https://github.com/TanmayArchives"><img src="https://img.shields.io/github/forks/TanmayArchives?style=social" alt="GitHub Forks"></a>
+</p>
 
-<p style="font-family: 'Georgia', serif; color: #7a6755;">I have previously worked on incomplete projects that hold limited value for my profile, and this organization enables me to store and showcase those projects for others to see. This repository acts as a digital attic, preserving the remnants of my past endeavors, like the weathered pages of a reacher's journal.</p>
+---
+
+## 🌟 Why TanmayArchives?
+
+At **TanmayArchives**, we believe that every project has potential, whether completed or not. This organization serves as a curated gallery for:
+
+- **Archiving**: Preserve projects that are no longer actively developed.
+- **Showcasing**: Display projects that might inspire or be of interest to others.
+- **Separating**: Keep incomplete or experimental projects separate from main profile to maintain a clean and professional look.
+
+## 🚀 Contributions
+
+**TanmayArchives** is more than a repository—it's a community! Whether you're looking to contribute to existing projects or find inspiration for new ones, you're in the right place. Feel free to fork projects, raise issues, or submit pull requests.
+
+## 📚 Explore
+
+Dive into our repositories to explore past projects and experiments. Who knows? Maybe an archived project could spark your next big idea!
+
+## 📬 Get Involved
+
+Interested in contributing or want to discuss project ideas? Connect with me [@TanmayDhobale](https://github.com/TanmayDhobale/) or submit an issue here on GitHub.
+
+## 📌 Support
+
+If you find any of our projects useful or interesting, please consider giving it a ⭐ on GitHub to show your support!
+
+---
+
+<p align="center">
+<a href="https://github.com/TanmayArchives">Explore TanmayArchives</a> ·
+<a href="https://github.com/TanmayDhobale">More About @TanmayDhobale</a>
+</p>
